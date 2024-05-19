@@ -7,16 +7,16 @@ Simple web example of go-basic-i18n with Gin.
 To run this project, follow these steps:
 
 1. Clone the repository:
-bash git clone https://github.com/pmperrin/go-basic-i18n-example
+`git clone https://github.com/pmperrin/go-basic-i18n-example`
 
 2. Navigate to the project directory:
-bash cd go-basic-i18n-example
+    `cd go-basic-i18n-example`
 
 3. Install dependencies:
-bash go mod tidy
+`go mod tidy`
 
 4. Run the application:
-bash go run main.go
+`go run main.go`
 
 
 ## Usage

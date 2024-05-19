@@ -1,6 +1,6 @@
 # go-basic-i18n-example
 
-Simple web example of go-basic-i18n with Gin.
+Simple web example of [go-basic-i18n](https://github.com/pmperrin/go-basic-i18n) with Gin.
 
 ## Setup
 
